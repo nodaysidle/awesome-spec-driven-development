@@ -38,6 +38,8 @@
 
 - [Cascade V3](https://github.com/nodaysidle/nodaysidle-cascade-v3) ![](https://img.shields.io/github/stars/nodaysidle/nodaysidle-cascade-v3.svg?cacheSeconds=86400) - Compiles a software idea into five locked markdown contracts (PRD, ARD, TRD, TASKS, AGENTS) with stable IDs.
 
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) ![](https://img.shields.io/github/stars/jangtrinh/design-os-studio.svg?cacheSeconds=86400) - Free, source-available (PolyForm Shield) interface design tool in Rust where coding agents write declarative `NodeSpec` JSON screen specs and apply them with `--apply-spec`.
+
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
 - [DriftWire](https://github.com/Haswell119/driftwire) ![](https://img.shields.io/github/stars/Haswell119/driftwire.svg?cacheSeconds=86400) - CLI that detects API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
@@ -107,6 +109,8 @@
 - [pdd-kit](https://github.com/itai-gendler/pdd-kit) ![](https://img.shields.io/github/stars/itai-gendler/pdd-kit.svg?cacheSeconds=86400) - Product-driven development framework that keeps intended behavior in a Git-tracked Product Model and gives coding agents skills to map, ideate, and verify it against implementation.
 
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
+
+- [SDD](https://github.com/fpapleux/sdd-skill) ![](https://img.shields.io/github/stars/fpapleux/sdd-skill.svg?cacheSeconds=86400) - Spec-driven development skill for Claude Code and Codex with operator approval gates, test-first evidence, and living specifications.
 
 - [skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills.svg?cacheSeconds=86400) - Composable engineering skills including PRD/spec, planning, TDD, and architecture workflows for AI-assisted development.
 
