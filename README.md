@@ -36,6 +36,8 @@
 
 - [Cage](https://github.com/vitalik1921/cage) ![](https://img.shields.io/github/stars/vitalik1921/cage.svg?cacheSeconds=86400) - Deterministic contract harness for TypeScript that keeps specifications, implementations, tests, and agent review state in sync.
 
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) ![](https://img.shields.io/github/stars/jangtrinh/design-os-studio.svg?cacheSeconds=86400) - Free, source-available (PolyForm Shield) interface design tool in Rust where coding agents write declarative `NodeSpec` JSON screen specs and apply them with `--apply-spec`, so the layout is computed by Auto-Layout from the spec instead of guessed pixel coordinates; works with Figma `.fig` files.
+
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
 - [DriftWire](https://github.com/Haswell119/driftwire) ![](https://img.shields.io/github/stars/Haswell119/driftwire.svg?cacheSeconds=86400) - CLI that detects API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
